@@ -24,9 +24,9 @@ int main(void)
     }
     else if (n == 0) 
     {
-        prinf("%i is zero\n", n);
+        printf("%i is zero\n", n);
     }
-    else 
+    else if (n < 0)
     {
         printf("%i is negative\n", n);
     }
