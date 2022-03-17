@@ -1,16 +1,15 @@
 #include "main.h"
 
 /**
- * _isupper - checks for uppercase character
- * @c: character to be checked
- * Return: 1 if true, 0 if false
+ * print_numbers - print 0 to 9
  */
 
-int _isupper(int c)
+void print_numbers(void)
 {
-    if (c >= 'A' && c <= 'Z')
-    {
-        return (1);
-    }
-    return (0);
+	char i;
+
+	for (i = '0'; i <= '9'; i++)
+		_putchar(i);
+
+	_putchar('\n');
 }
