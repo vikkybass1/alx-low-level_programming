@@ -11,3 +11,6 @@ a function that prints n elements of an array of integers
 a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
 a function that converts a string to an integer -the number in the string can be preceded by an infinite number of characters -need to take into account all the - and + signs before the number -if there are no numbers in the string, the function must return 0 -not allowed to use long -not allowed to declare new variables of “type” array -not allowed to hard-code special values -code needs to work on both ubuntu 14.04 LTS and 16.04 LTS -code will be compiled with -fsanitize=signed-integer-overflow gcc flag (You can install the last version on your VM) -code will be compiled with gcc version 5 or above
 a program that generates random valid passwords for the program 101-crackme
+
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)

@@ -25,7 +25,7 @@ This repository holds some projects I worked on for Holberton School. The goal i
 100. a function that splits a string into words
 
 ## Authors
-* Victor
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)
 
 ## License
 * The Holberton School

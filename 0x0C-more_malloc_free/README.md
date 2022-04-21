@@ -17,8 +17,8 @@
 100. a function that reallocates a memory block using malloc and free
 101. a program that multiply two positive numbers
 
-### Authors
-victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)
 
 ### License
  MIT

@@ -17,3 +17,6 @@ Description of what each file does
 14.   prints the first 50 Fibonacci numbers, starting with 1 and 2
 15.   considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, this program finds and prints the sum of the even-valued terms
 16.   finds and prints the first 98 Fibonacci numbers, starting with 1 and 2
+
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)

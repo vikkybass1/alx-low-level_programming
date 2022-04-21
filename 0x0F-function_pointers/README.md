@@ -15,8 +15,8 @@
 2. a function that searches for an integer via a function pointer
 3. a program that performs simple operator calculations (consist of 4 files starting with "3-")
 
-### Authors
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)
 
 ### License
  MIT

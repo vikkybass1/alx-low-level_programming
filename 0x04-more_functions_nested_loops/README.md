@@ -12,3 +12,6 @@ Descriptions
 10.  a function that prints a triangle with # based on size argument
 11.  a program that finds and prints the largest prime factor of the number 612852475143
 12.   a function that prints an integer
+
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)

@@ -24,7 +24,7 @@ This repository holds some projects I worked on for Holberton School. The goal i
 8. a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0
 
 ## Authors
-* Victor Ng
+* Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)
 
 ## License
 * The Holberton School

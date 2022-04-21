@@ -16,8 +16,8 @@
 3. a header file with function-like macro ABS(x) that computes the absolute value of a number x
 4. a header file with function-like macro SUM(x, y) that computes the sum of the numbers x and y
 
-### Authors
-Victor [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)
 
 ### License
  MIT

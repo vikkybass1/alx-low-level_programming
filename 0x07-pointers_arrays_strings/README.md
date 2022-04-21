@@ -31,4 +31,4 @@ This repository holds some projects I worked on for Holberton School. The goal i
     - [tutorial] (https://www.linux.com/blog/cracking-simple-passworded-file-beginners-guide-security)
 
 ## Authors
-* Victor
+* Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)

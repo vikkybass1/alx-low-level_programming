@@ -44,5 +44,4 @@ This repository holds some projects I worked on for Holberton School. The goal i
     - if size is 0 or less, the output should be a new line only \n
 
 ## Authors
-* Victor Ng
-
+* Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)

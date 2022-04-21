@@ -27,3 +27,6 @@ Example: if the C file is main.c, the output file should be main.s
 Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
 You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts
 Your program should return 1
+
+## Authors
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)

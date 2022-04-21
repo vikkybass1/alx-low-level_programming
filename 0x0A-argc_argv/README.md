@@ -23,7 +23,7 @@ This repository holds some projects I worked on for Holberton School. The goal i
 100. a program that prints the minimum number of coins to make change for an amount of money
 
 ## Authors
-* Victor Ng
+Victor Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/vikkybass1)
 
 ## License
 * The Holberton School
